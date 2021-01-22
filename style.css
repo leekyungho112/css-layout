@@ -18,25 +18,25 @@
 .header {
   background-color: #dbcf23;
   /* grid-column: span 4; */
-  grid-area: header;
+  /* grid-area: header; */
 }
 
 .content {
   background-color: #4f74c5;
   /* grid-column: 1/-2;
   grid-row: span 2; */
-  grid-area: content;
+  /* grid-area: content; */
 }
 
 .nav {
   background-color: #f1ae32;
   /* grid-row: span 2; */
-  grid-area: nav;
+  /* grid-area: nav; */
 }
 .footer {
   background-color: #c747e7;
   /* grid-column-start: 1;
   grid-column-end: 5; */
   /* grid-column: span 4; */
-  grid-area: footer;
+  /* grid-area: footer; */
 }
